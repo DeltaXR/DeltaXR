@@ -1,4 +1,4 @@
-[![MasterHead](https://p2.piqsels.com/preview/906/1/293/abstract-business-code-coding.jpg)
+![MasterHead](https://p2.piqsels.com/preview/906/1/293/abstract-business-code-coding.jpg)
 <h1 align="center">Hi 👋, I'm DeltaXR</h1>
 <h3 align="center">A Developer Living in Canada</h3>
 
